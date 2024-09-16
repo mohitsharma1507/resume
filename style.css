@@ -1,0 +1,21 @@
+.TOPPART{
+  text-align: center;
+}
+
+hr{
+  background-color: lightgray;
+  border: none;
+  height: 2px;
+}
+main{
+  display: grid;
+  grid-template-columns: 39% 60%;
+
+}
+.leftPart{
+  margin-left: 8rem;
+  border-right: 2px solid lightgrey;
+}
+.rightPart{
+  margin-left: 5rem;
+}
